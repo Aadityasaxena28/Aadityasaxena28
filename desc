@@ -1,0 +1,2 @@
+used lstm  neural networks here , and tarined it using a sequential model improved the accuracy by adjusting learing rate ad increasing the lstm layers.
+predicts the growth of stocks  , based in microsoft stock price data.
